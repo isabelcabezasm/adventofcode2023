@@ -1,3 +1,4 @@
-day01/MyFirstApp/bin/*
-day01/MyFirstApp/obj/*
-day01/obj/*
+day*/MyFirstApp/bin/*
+day*/MyFirstApp/obj/*
+day*/obj/*
+day*/bin/*
